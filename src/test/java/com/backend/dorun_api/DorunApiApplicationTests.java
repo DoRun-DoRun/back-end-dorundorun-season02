@@ -9,5 +9,4 @@ class DorunApiApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
